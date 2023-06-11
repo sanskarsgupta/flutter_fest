@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548964883442",
+    "project_id": "flutter-19271",
+    "storage_bucket": "flutter-19271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548964883442:android:42acbfa6bfc3d79e38e96b",
+        "android_client_info": {
+          "package_name": "com.example.rive_animation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548964883442-5fbu8qgko8ds3on4eo8i3bd9n81m4ig7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcS9bpNRQtZ9pjEmP2tT219vT_ECKP1Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548964883442-5fbu8qgko8ds3on4eo8i3bd9n81m4ig7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
